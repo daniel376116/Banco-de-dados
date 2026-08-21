@@ -179,7 +179,7 @@ select * from filmes;
     where titulo like 'Harry Potter%';
     
     select * from filmes 
-    where titulo like 'Harry Potter%'
+    where titulo like 'Harry Potter%';
 -- -----------------------------------------------------------------------------
 -- DESAFIO EXTRA (Para quem terminar antes)
 -- -----------------------------------------------------------------------------
